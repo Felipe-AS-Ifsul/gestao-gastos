@@ -17,6 +17,10 @@ Compila os assets usando um dos comandos:
 npm run dev
 npm run build
 
+faça as migrates:
+
+php artisan migrate::fresh
+
 inicia o servidor local:
 
 php artisan serve
